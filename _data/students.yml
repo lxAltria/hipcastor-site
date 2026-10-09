@@ -21,6 +21,13 @@
   number_educ: 1
   education1: BS @ Bradley University, Illinois, USA (1999)
 
+- name: <a href="https://chappelle.dev/">Nathaniel Chappelle</a>
+  photo: nathaniel.jpeg
+  info: MS Student, since 2026
+  email: chappeln@oregonstate.edu
+  number_educ: 1
+  education1: BS @ OSU, Oregon, US (2026)
+
 - name: <a href="https://lucien-showcase.pages.dev/about/">Tse-Ting Lin</a>
   photo: tse-ting.jpg
   info: MS Student, since 2026
@@ -41,6 +48,20 @@
   email: cutlern@oregonstate.edu
   number_educ: 1
   education1: BS @ OSU, Oregon, US (2027 est.)
+
+- name: B Gutierrez-Villanueva
+  photo:
+  info: Undergraduate Student
+  email: gutibren@oregonstate.edu
+  number_edu: 1
+  education1: BS @ OSU, Oregon, US
+
+- name: Sang Nguyen
+  photo:
+  info: Undergraduate Student
+  email: nguysang@oregonstate.edu
+  number_edu: 1
+  education1: BS @ OSU, Oregon, US
 
 # - name: <a href="https://github.com/Chelsi-create">Chelsi Jain</a>
 #   photo: Chelsi.jpeg
